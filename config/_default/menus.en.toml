@@ -21,12 +21,11 @@ name = "Essay"
 parent = "Categories"
 weight = 12
 url = "/categories/essay"
-
 [[main]]
 name = "Lego Reviews"
 parent = "Categories"
 weight = 12
-url = "/categories/reviews"
+url = "/categories"
 
 [[main]]
   identifier = "github"

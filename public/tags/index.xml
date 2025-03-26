@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="lego.kierancollins.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="lego.kierancollins.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Art</title>
+      <link>lego.kierancollins.cloud/tags/art/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>lego.kierancollins.cloud/tags/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>lego.kierancollins.cloud/tags/disney/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>lego.kierancollins.cloud/tags/disney/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lego</title>
+      <link>lego.kierancollins.cloud/tags/lego/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>lego.kierancollins.cloud/tags/lego/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
