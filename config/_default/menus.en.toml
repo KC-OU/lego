@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 10
+
+[[main]]
 pre = "briefcase"
 name = "Categories"
 weight = 10
@@ -25,7 +30,7 @@ url = "/categories/essay"
 name = "Lego Reviews"
 parent = "Categories"
 weight = 12
-url = "/categories"
+url = "/categories/lego-reviews"
 
 [[main]]
   identifier = "github"
