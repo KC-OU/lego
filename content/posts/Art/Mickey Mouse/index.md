@@ -42,4 +42,10 @@ You don’t have to be an artist or LEGO collector to appreciate the creativity 
 
 <img src="images/lego-31202-info-from-site.PNG" width="900" height="600">
 
+## Version Build in Studio
 
+<img src="images/Art_2.png" width="900" height="600">
+
+<img src="images/Art_3.PNG" width="900" height="600">
+
+<img src="images/Art_4.PNG" width="900" height="600">
