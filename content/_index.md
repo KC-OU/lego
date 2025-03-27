@@ -4,7 +4,12 @@ description: "This site is for KC Lego Rewiews"
 ---
 
 
-<!--<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
+Please see the link below for the roadmap of the sets that, I am reviewing and building in studio [Trello](https://trello.com/invite/b/67e5aa0d5e6eefb07aead9e4/ATTId2cfeb47122c8c12abfe49f74ef67a0731F5F7FD/lego-studo-website-roadmap)
+
+
+
+<!--
+<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
   </span>
@@ -18,10 +23,4 @@ description: "This site is for KC Lego Rewiews"
     </button>
   </span>
 </div>
-
-
-```node
-npx blowfish-tools
-```  
-
-!-->
+ --/>
