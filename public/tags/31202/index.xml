@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>31202 on KC Lego</title>
-    <link>//localhost:1313/tags/31202/</link>
+    <link>lego.kierancollins.cloud/tags/31202/</link>
     <description>Recent content in 31202 on KC Lego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/31202/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="lego.kierancollins.cloud/tags/31202/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mickey Mouse Art Lego</title>
-      <link>//localhost:1313/mickey-mouse-lego/</link>
+      <link>lego.kierancollins.cloud/mickey-mouse-lego/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/mickey-mouse-lego/</guid>
-      <description>Linus supports Rust in Linux development; COSMIC Alpha 6 adds features like zooming and snapping windows; Fedora faces a potential threat from OBS; GNOME may phase out its foot logo based on Cassidy&amp;rsquo;s article; PewDiePie highlights Linux Mint in his video, while the Pomera D250 offers a minimalist writing device.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/mickey-mouse-lego/cover.jpg" />
+      <guid>lego.kierancollins.cloud/mickey-mouse-lego/</guid>
+      <description>Official LEGO® Infomation # Official Lego Infomation: source</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="lego.kierancollins.cloud/mickey-mouse-lego/cover.jpg" />
     </item>
     
   </channel>

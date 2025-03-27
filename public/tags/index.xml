@@ -2,69 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KC Lego</title>
-    <link>//localhost:1313/tags/</link>
+    <link>lego.kierancollins.cloud/tags/</link>
     <description>Recent content in Tags on KC Lego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="lego.kierancollins.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2021</title>
-      <link>//localhost:1313/tags/2021/</link>
+      <link>lego.kierancollins.cloud/tags/2021/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/2021/</guid>
+      <guid>lego.kierancollins.cloud/tags/2021/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>2658 Parts</title>
-      <link>//localhost:1313/tags/2658-parts/</link>
+      <title>2658</title>
+      <link>lego.kierancollins.cloud/tags/2658/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/2658-parts/</guid>
+      <guid>lego.kierancollins.cloud/tags/2658/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>31202</title>
-      <link>//localhost:1313/tags/31202/</link>
+      <link>lego.kierancollins.cloud/tags/31202/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/31202/</guid>
+      <guid>lego.kierancollins.cloud/tags/31202/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Art</title>
-      <link>//localhost:1313/tags/art/</link>
+      <link>lego.kierancollins.cloud/tags/art/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/art/</guid>
+      <guid>lego.kierancollins.cloud/tags/art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Disney</title>
-      <link>//localhost:1313/tags/disney/</link>
+      <link>lego.kierancollins.cloud/tags/disney/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/disney/</guid>
+      <guid>lego.kierancollins.cloud/tags/disney/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lego</title>
-      <link>//localhost:1313/tags/lego/</link>
+      <link>lego.kierancollins.cloud/tags/lego/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/lego/</guid>
+      <guid>lego.kierancollins.cloud/tags/lego/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Parts</title>
+      <link>lego.kierancollins.cloud/tags/parts/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>lego.kierancollins.cloud/tags/parts/</guid>
       <description></description>
       
     </item>
