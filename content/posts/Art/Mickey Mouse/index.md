@@ -18,7 +18,7 @@ tags:
   - Parts
 ---
 
-## Official LEGO® Infomation 
+## Official LEGO® Information 
 
 **Official Lego Infomation: [source](https://www.lego.com/en-gb/product/disney-s-mickey-mouse-31202)**
 
@@ -44,8 +44,8 @@ You don’t have to be an artist or LEGO collector to appreciate the creativity 
 
 ## Version Build in Bricklink-Studio
 
-<img src="images/Art_2.png" width="900" height="600">
+<img src="images/Main-Art.png" width="900" height="600">
 
-<img src="images/Art_3.png" width="900" height="600">
+<img src="images/Set-Info.png" width="900" height="600">
 
-<img src="images/Art_4.png" width="900" height="600">
+<img src="images/Disney-logo.png" width="900" height="600">
