@@ -42,7 +42,7 @@ You don’t have to be an artist or LEGO collector to appreciate the creativity 
 
 <img src="images/lego-31202-info-from-site.PNG" width="900" height="600">
 
-## Version Build in Studio
+## Version Build in Bricklink-Studio
 
 <img src="images/Art_2.png" width="900" height="600">
 
